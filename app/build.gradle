@@ -10,12 +10,12 @@ plugins {
 
 android {
     namespace 'com.stevdzasan.diaryapp'
-    compileSdk 34
+    compileSdk ProjectConfig.compileSdk
 
     defaultConfig {
         applicationId "com.stevdzasan.diaryapp"
-        minSdk 21
-        targetSdk 34
+        minSdk ProjectConfig.minSdk
+        targetSdk ProjectConfig.targetSdk
         versionCode 1
         versionName "1.0"
 
@@ -43,7 +43,7 @@ android {
         compose true
     }
     composeOptions {
-        kotlinCompilerExtensionVersion '1.4.6'
+        kotlinCompilerExtensionVersion ProjectConfig.extensionVersion
     }
     packagingOptions {
         resources {
