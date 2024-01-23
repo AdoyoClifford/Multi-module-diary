@@ -9,7 +9,7 @@ plugins {
 }
 
 android {
-    namespace 'com.stevdzasan.diaryapp'
+    namespace 'com.adoyo.diaryapp'
     compileSdk ProjectConfig.compileSdk
 
     defaultConfig {
@@ -116,5 +116,7 @@ dependencies {
 
     // Desugar JDK
     coreLibraryDesugaring 'com.android.tools:desugar_jdk_libs:2.0.3'
+
+    implementation(project(":core:ui"))
 
 }
