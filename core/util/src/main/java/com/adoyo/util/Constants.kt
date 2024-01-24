@@ -1,4 +1,4 @@
-package com.adoyo.diaryapp.util
+package com.adoyo.util
 
 object Constants {
 

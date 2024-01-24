@@ -1,6 +1,6 @@
-package com.adoyo.diaryapp.model
+package com.adoyo.util.model
 
-import com.adoyo.diaryapp.util.toRealmInstant
+import com.adoyo.util.toRealmInstant
 import io.realm.kotlin.ext.realmListOf
 import io.realm.kotlin.types.RealmInstant
 import io.realm.kotlin.types.RealmList

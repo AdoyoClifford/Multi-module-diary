@@ -15,7 +15,6 @@ import com.adoyo.diaryapp.data.repository.MongoDB
 import com.adoyo.diaryapp.model.Diary
 import com.adoyo.diaryapp.model.Mood
 import com.adoyo.diaryapp.model.RequestState
-import com.adoyo.diaryapp.util.Constants.WRITE_SCREEN_ARGUMENT_KEY
 import com.adoyo.diaryapp.util.fetchImagesFromFirebase
 import com.adoyo.diaryapp.util.toRealmInstant
 import com.adoyo.ui.GalleryImage

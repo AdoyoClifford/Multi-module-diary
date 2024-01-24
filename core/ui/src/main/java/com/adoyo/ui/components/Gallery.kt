@@ -26,6 +26,7 @@ import coil.compose.AsyncImage
 import coil.request.ImageRequest
 import com.adoyo.ui.GalleryImage
 import com.adoyo.ui.GalleryState
+import com.adoyo.ui.theme.Elevation
 import kotlin.math.max
 
 @Composable

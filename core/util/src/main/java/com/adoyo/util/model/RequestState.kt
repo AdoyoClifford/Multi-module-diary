@@ -1,4 +1,4 @@
-package com.adoyo.diaryapp.model
+package com.adoyo.util.model
 
 sealed class RequestState<out T> {
     object Idle : RequestState<Nothing>()

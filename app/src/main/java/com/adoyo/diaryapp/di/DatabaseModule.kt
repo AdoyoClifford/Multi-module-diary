@@ -4,7 +4,6 @@ import android.content.Context
 import androidx.room.Room
 import com.adoyo.diaryapp.connectivity.NetworkConnectivityObserver
 import com.adoyo.diaryapp.data.database.ImagesDatabase
-import com.adoyo.diaryapp.util.Constants.IMAGES_DATABASE
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

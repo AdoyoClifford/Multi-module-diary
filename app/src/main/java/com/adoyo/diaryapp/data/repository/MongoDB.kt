@@ -2,7 +2,6 @@ package com.adoyo.diaryapp.data.repository
 
 import com.adoyo.diaryapp.model.Diary
 import com.adoyo.diaryapp.model.RequestState
-import com.adoyo.diaryapp.util.Constants.APP_ID
 import com.adoyo.diaryapp.util.toInstant
 import io.realm.kotlin.Realm
 import io.realm.kotlin.ext.query

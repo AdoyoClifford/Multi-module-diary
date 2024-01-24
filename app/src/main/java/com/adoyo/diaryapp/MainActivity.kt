@@ -13,10 +13,10 @@ import com.adoyo.diaryapp.data.database.ImageToDeleteDao
 import com.adoyo.diaryapp.data.database.ImageToUploadDao
 import com.adoyo.diaryapp.navigation.Screen
 import com.adoyo.diaryapp.navigation.SetupNavGraph
-import com.adoyo.diaryapp.util.Constants.APP_ID
-import com.adoyo.diaryapp.util.retryDeletingImageFromFirebase
-import com.adoyo.diaryapp.util.retryUploadingImageToFirebase
 import com.adoyo.ui.theme.DiaryAppTheme
+import com.adoyo.util.Constants.APP_ID
+import com.adoyo.util.retryDeletingImageFromFirebase
+import com.adoyo.util.retryUploadingImageToFirebase
 import com.google.firebase.FirebaseApp
 import dagger.hilt.android.AndroidEntryPoint
 import io.realm.kotlin.mongodb.App

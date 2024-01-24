@@ -1,4 +1,4 @@
-package com.stevdzasan.diaryapp.ui.theme
+package com.adoyo.ui.theme
 
 import androidx.compose.ui.unit.dp
 

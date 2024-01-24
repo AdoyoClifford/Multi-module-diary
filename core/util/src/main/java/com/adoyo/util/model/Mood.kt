@@ -1,7 +1,6 @@
-package com.adoyo.diaryapp.model
+package com.adoyo.util.model
 
 import androidx.compose.ui.graphics.Color
-import com.adoyo.diaryapp.R
 import com.adoyo.ui.theme.AngryColor
 import com.adoyo.ui.theme.AwfulColor
 import com.adoyo.ui.theme.BoredColor
@@ -18,6 +17,7 @@ import com.adoyo.ui.theme.ShamefulColor
 import com.adoyo.ui.theme.SurprisedColor
 import com.adoyo.ui.theme.SuspiciousColor
 import com.adoyo.ui.theme.TenseColor
+import com.adoyo.util.R
 
 enum class Mood(
     val icon: Int,

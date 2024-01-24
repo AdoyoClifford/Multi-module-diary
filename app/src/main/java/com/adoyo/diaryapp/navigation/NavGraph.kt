@@ -24,8 +24,6 @@ import com.adoyo.diaryapp.presentation.screens.home.HomeScreen
 import com.adoyo.diaryapp.presentation.screens.home.HomeViewModel
 import com.adoyo.diaryapp.presentation.screens.write.WriteScreen
 import com.adoyo.diaryapp.presentation.screens.write.WriteViewModel
-import com.adoyo.diaryapp.util.Constants.APP_ID
-import com.adoyo.diaryapp.util.Constants.WRITE_SCREEN_ARGUMENT_KEY
 import com.adoyo.ui.components.DisplayAlertDialog
 import com.stevdzasan.messagebar.rememberMessageBarState
 import com.stevdzasan.onetap.rememberOneTapSignInState
