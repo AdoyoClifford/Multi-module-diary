@@ -113,13 +113,7 @@ The DiaryApp project uses many popular libraries and tools in the Android Ecosys
 
 
 
-<a href="https://ko-fi.com/stevdza_san" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-# :handshake: Contributing :handshake:
-
-Contributions to make DiaryApp better are always welcome!
-
-If you are interested in seeing a particular feature implemented in this app, please open a new issue after which you can make a PR!
 
 
 
