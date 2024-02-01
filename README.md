@@ -34,16 +34,6 @@ Start your next Android chapter by grabing this [Loaded and Modern Android Cours
 You can also browse and reward yourself with [more great courses ](https://stevdza-san.com/courses)
 
 
-# :camera_flash: **Screenshots** :camera_flash:
-
-DiaryApp follows the latest Material 3 guidelines for a visually appealing and a consistent UI.
-
-<p align="center">
-<img img width="200" height="400" src="./readme-assets/screenshots/screen_1.png"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img img width="200" height="400" src="./readme-assets/screenshots/screen_2.png"> &nbsp;&nbsp;&nbsp;&nbsp;   
-<img img width="200" height="400" src="./readme-assets/screenshots/screen_3.png"> &nbsp;&nbsp;&nbsp;&nbsp; 
-
-</p>
 
 
 
