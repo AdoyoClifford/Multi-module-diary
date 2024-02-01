@@ -18,9 +18,8 @@
 [Deployment](#arrow_lower_right-deployment-arrow_lower_right) ~
 [Architecture](#hammer_and_wrench-architecture-hammer_and_wrench) ~
 [Tech Stack](#building_construction-tech-stack-building_construction) ~
-[Authors](#memo-authors-memo) ~
-[Contributing](#handshake-contributing-handshake)  
-[License](#scroll-license-scroll)  
+
+
  
 </div>
     
@@ -121,17 +120,7 @@ The DiaryApp project uses many popular libraries and tools in the Android Ecosys
 
 * [Stevdza-San's OneTapCompose](https://github.com/stevdza-san/OneTapCompose) - Animated Message Bar UI that can be wrapped around your screen content in order to display Error/Success messages in your app. It is adapted and optimized for use with Compose and Material 3 projects.
 
-# :memo: Authors :memo:
-- [@stevdza-san](https://github.com/stevdza-san)
-  
-Do Reach Out :
 
-  * [Twitter](https://twitter.com/StevdzaS)
-
-  * [YouTube](https://www.youtube.com/c/StevdzaSan)
-
-Check out my online courses: 
-   [Online Courses](https://stevdza-san.com/)
 
 
 <a href="https://ko-fi.com/stevdza_san" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
@@ -143,26 +132,4 @@ Contributions to make DiaryApp better are always welcome!
 If you are interested in seeing a particular feature implemented in this app, please open a new issue after which you can make a PR!
 
 
-# :scroll: License :scroll:
 
-MIT License
-
-Copyright (c) [2023] [Stefan Jovanovic]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
